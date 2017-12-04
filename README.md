@@ -36,6 +36,6 @@ while (true) {
 
 # Contact
 
-Hagar Porat (hagarp@campus.technion.ac.il)
+Hagar Meir (hagarp@campus.technion.ac.il)
 
 Guy Gueta (guy.gueta@gmail.com)
